@@ -1,0 +1,13 @@
+@import url("card.css");
+@import url("events.css");
+
+body {
+    margin: 0;
+}
+
+.centerWithHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: calc(100vh - 50px);
+}
